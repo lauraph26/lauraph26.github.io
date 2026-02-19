@@ -75,13 +75,13 @@ jamais fait mais le parc a l'air sympa avec ses têtes de géants, mais petit
 
 bar avec des cocktails farfelus, pas encore fait mais apparemment c'est cool
 
-- **Le bateau livre** :purple_heart: :white_check_mark: [:link:](https://www.instagram.com/bateaulivrelille/) [:apple:](https://maps.apple.com/place?place-id=IF182C9B1E8C27AE9&address=154+Rue+L%C3%A9on+Gambetta%2C+59260+Lille%2C+France&coordinate=50.6295173%2C3.0545315&name=Le+Bateau+Livre&_provider=9902)
+- **Le bateau livre** :purple_heart: :heavy_check_mark: [:link:](https://www.instagram.com/bateaulivrelille/) [:apple:](https://maps.apple.com/place?place-id=IF182C9B1E8C27AE9&address=154+Rue+L%C3%A9on+Gambetta%2C+59260+Lille%2C+France&coordinate=50.6295173%2C3.0545315&name=Le+Bateau+Livre&_provider=9902)
 
 <img src="/assets/images/divers/bateau.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 librairie indépendante rue gambetta, s'il faut acheter des livres ce serait dommage de privilégier le furet ou la fnac à ce lieu !! 
 
-- **Le youyou** :blue_heart: :white_check_mark: [:link:](https://leyouyou59.fr/) [:apple:](https://maps.apple.com/place?place-id=IE01F9E497C02104C&address=189+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6290342%2C3.0538827&name=Le+Youyou&_provider=9902)
+- **Le youyou** :blue_heart: :heavy_check_mark: [:link:](https://leyouyou59.fr/) [:apple:](https://maps.apple.com/place?place-id=IE01F9E497C02104C&address=189+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6290342%2C3.0538827&name=Le+Youyou&_provider=9902)
 
 <img src="/assets/images/divers/youyou.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
@@ -135,13 +135,13 @@ un peu excentré, un peu dans un coin paumé de villeneuve d'ascq mais ça a l'a
 
 il semblerait que les cocktails valent le détour, je veux tester ...
 
-- **Tequila** :blue_heart: :white_check_mark: [:link:](https://tequilae-shop.com/nos-boutiques/) [:apple:](https://maps.apple.com/place?place-id=I480E825358A87A01&address=21+Rue+de+la+Vieille+Com%C3%A9die%2C+59800+Lille%2C+France&coordinate=50.6351332%2C3.0639433&name=T%C3%A9quila&_provider=9902)
+- **Tequila** :blue_heart: :heavy_check_mark: [:link:](https://tequilae-shop.com/nos-boutiques/) [:apple:](https://maps.apple.com/place?place-id=I480E825358A87A01&address=21+Rue+de+la+Vieille+Com%C3%A9die%2C+59800+Lille%2C+France&coordinate=50.6351332%2C3.0639433&name=T%C3%A9quila&_provider=9902)
 
 <img src="/assets/images/divers/tequila.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 boutique de bijoux et d'autres accessoires, leurs bijoux sont d'une qualité correcte et la plupart de leur bague ont une taille ajustable si je dis pas de bêtises
 
-- **Vieille Bourse** :purple_heart: :white_check_mark: [:link:](https://www.lilletourism.com/explorer/lille-et-ses-environs/musees-et-sites-touristiques/vieille-bourse/) [:apple:](https://maps.apple.com/place?place-id=I817B08C871942257&address=24+Place+du+G%C3%A9n%C3%A9ral+de+Gaulle%2C+59000+Lille%2C+France&coordinate=50.637003%2C3.0642629&name=Vieille+Bourse&_provider=9902)
+- **Vieille Bourse** :purple_heart: :heavy_check_mark: [:link:](https://www.lilletourism.com/explorer/lille-et-ses-environs/musees-et-sites-touristiques/vieille-bourse/) [:apple:](https://maps.apple.com/place?place-id=I817B08C871942257&address=24+Place+du+G%C3%A9n%C3%A9ral+de+Gaulle%2C+59000+Lille%2C+France&coordinate=50.637003%2C3.0642629&name=Vieille+Bourse&_provider=9902)
 
 <img src="/assets/images/divers/bourse.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 

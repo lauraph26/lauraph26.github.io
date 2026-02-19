@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /musique/
 title: "musique"
 ---
