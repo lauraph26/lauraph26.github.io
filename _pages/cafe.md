@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /cafe/
-title: "Café / Sucrerie "
+title: "lille - café / sucrerie "
 ---
 
 ## Légende
@@ -9,8 +9,9 @@ title: "Café / Sucrerie "
 - :purple_heart: : testé et approuvé
 - :blue_heart: : testé et c'est ok
 - :green_heart: : à tester
+- :heavy_check_mark: testé ensemble
 - :link: : lien vers leur site ou réseau
-- :apple: : localisation (apple maps)
+- :apple: : localisation
 
 # Où prendre un petit café / manger une petite sucrerie ?
 
@@ -80,7 +81,7 @@ découvert très récemment, j'ai adoré leur boisson !! (j'avais pris un flavio
 
 autre très bon glacier du vieux-lille, qui ne détrône toutefois pas astral dans mon coeur
 
-- **Hanami Café** :green_heart: [:link:](https://www.hanamicafe.fr/) [:apple:](https://maps.apple.com/place?place-id=I7FCEE5E978A19846&address=13+Rue+de+la+Clef%2C+59800+Lille%2C+France&coordinate=50.6384753%2C3.064792&name=Hanami+Caf%C3%A9&_provider=9902)
+- **Hanami Café** :purple_heart: :heavy_check_mark: [:link:](https://www.hanamicafe.fr/) [:apple:](https://maps.apple.com/place?place-id=I7FCEE5E978A19846&address=13+Rue+de+la+Clef%2C+59800+Lille%2C+France&coordinate=50.6384753%2C3.064792&name=Hanami+Caf%C3%A9&_provider=9902)
 
 <img src="/assets/images/cafe/hanami.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
@@ -98,7 +99,7 @@ chocolatier, ils vendent aussi les glaces de gelato, bon à savoir quand il y a 
 
 café sympa pas loin des gares lille flandres et lille europe
 
-- **La wilderie** :purple_heart: [:link:](https://lawilderie.com/) [:apple:](https://maps.apple.com/place?place-id=I58D5C145D32F5609&address=2+Rue+Saint-%C3%89tienne%2C+59800+Lille%2C+France&coordinate=50.6375242%2C3.0619279&name=La+Wilderie&_provider=9902)
+- **La wilderie** :purple_heart: :heavy_check_mark: [:link:](https://lawilderie.com/) [:apple:](https://maps.apple.com/place?place-id=I58D5C145D32F5609&address=2+Rue+Saint-%C3%89tienne%2C+59800+Lille%2C+France&coordinate=50.6375242%2C3.0619279&name=La+Wilderie&_provider=9902)
 
 <img src="/assets/images/cafe/wilderie.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 

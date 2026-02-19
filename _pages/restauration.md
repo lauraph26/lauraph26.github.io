@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /restauration/
-title: "Restauration"
+title: "lille - restauration"
 ---
 
 ## Légende
@@ -9,8 +9,9 @@ title: "Restauration"
 - :purple_heart: : testé et approuvé
 - :blue_heart: : testé et c'est ok
 - :green_heart: : à tester
+- :heavy_check_mark: testé ensemble
 - :link: : lien vers leur site ou réseau
-- :apple: : localisation (apple maps)
+- :apple: : localisation
 
 # Où manger à Lille ?
 
