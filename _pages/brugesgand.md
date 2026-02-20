@@ -56,7 +56,6 @@ title: "bruges / gand"
 		<img src="/assets/images/gand/gand10" alt="gand10">
 		<img src="/assets/images/gand/gand7" alt="gand7">
 		<img src="/assets/images/gand/gand32" alt="gand32">
-		<img src="/assets/images/gand/gand1" alt="gand1">
 		<img src="/assets/images/gand/gand20" alt="gand20">
 		<img src="/assets/images/gand/gand25" alt="gand25">
 		<img src="/assets/images/gand/gand2" alt="gand2">
