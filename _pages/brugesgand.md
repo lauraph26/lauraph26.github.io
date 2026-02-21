@@ -4,6 +4,8 @@ permalink: /brugesgand/
 title: "bruges / gand"
 ---
 
+j'ai à peu près tout mis mais faut que je trie les photos ... aussi, peut-être que je ferai en sorte que tu puisses en rajouter toi même !
+
 ## photos de bruges
 
 <div class="carousel">
