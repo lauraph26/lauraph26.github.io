@@ -112,7 +112,7 @@ title: "bruges / gand"
 		<img src="/assets/images/gand/gand17" alt="gand17">
 		<img src="/assets/images/gand/gand36" alt="gand36">
 		<img src="/assets/images/gand/gand46" alt="gand46">
-		<img src="/assets/images/gand/gand4è" alt="gand46">
+		<img src="/assets/images/gand/gand47" alt="gand46">
 	</div>
 	<button class="carousel-btn prev">‹</button>
 	<button class="carousel-btn next">›</button>
