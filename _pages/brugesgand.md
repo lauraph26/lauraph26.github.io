@@ -4,9 +4,7 @@ permalink: /brugesgand/
 title: "bruges / gand"
 ---
 
-j'ai à peu près tout mis mais faut que je trie les photos ... aussi, peut-être que je ferai en sorte que tu puisses en rajouter toi même !
-
-## photos de bruges
+## bruges
 
 <div class="carousel">
     <div class="carousel-track">
@@ -44,14 +42,34 @@ j'ai à peu près tout mis mais faut que je trie les photos ... aussi, peut-êtr
 	<button class="carousel-btn next">›</button>
 </div>
 
-## photos de gand
+- **balade en bateau sur les eaux de la** :sparkles: **venise du nord** :sparkles:
 
+<img src="/assets/images/bruges/bruges27" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+- **gaufre chez albert (j'y pense encore)**
+
+<img src="/assets/images/bruges/bruges13" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+- **frites et bière, la belgique finalement (fritbar)** 
+
+<img src="/assets/images/bruges/bruges31" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+- **encore plus de nourriture (bieratelier)** :eyes:
+
+<img src="/assets/images/bruges/bruges1" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+<img src="/assets/images/bruges/bruges24" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+- **in bruges à bruges**
+
+<img src="/assets/images/bruges/bruges32" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+<img src="/assets/images/bruges/bruges33" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+## gand
 
 <div class="carousel">
     <div class="carousel-track">
 		<img src="/assets/images/gand/gand41" alt="gand41">
 		<img src="/assets/images/gand/gand37" alt="gand37">
-		<img src="/assets/images/gand/gand3" alt="gand3">
 		<img src="/assets/images/gand/gand34" alt="gand34">
 		<img src="/assets/images/gand/gand14" alt="gand14">
 		<img src="/assets/images/gand/gand18" alt="gand18">
@@ -93,10 +111,25 @@ j'ai à peu près tout mis mais faut que je trie les photos ... aussi, peut-êtr
 		<img src="/assets/images/gand/gand4" alt="gand4">
 		<img src="/assets/images/gand/gand17" alt="gand17">
 		<img src="/assets/images/gand/gand36" alt="gand36">
+		<img src="/assets/images/gand/gand46" alt="gand46">
+		<img src="/assets/images/gand/gand4è" alt="gand46">
 	</div>
 	<button class="carousel-btn prev">‹</button>
 	<button class="carousel-btn next">›</button>
 </div>
+
+- **p'tite sucrerie (have a roll)**
+
+<img src="/assets/images/gand/gand46" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+- **un peu d'italie, même en belgique (panotto)**
+
+<img src="/assets/images/gand/gand33" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+- **le château des comtes (le mien)** :european_castle:
+
+<img src="/assets/images/gand/gand34" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+<img src="/assets/images/gand/gand44" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 <!-- Lightbox -->
 <div class="lightbox" id="lightbox">
