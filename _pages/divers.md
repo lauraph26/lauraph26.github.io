@@ -9,8 +9,8 @@ title: "divers"
 - **hamnet** 
 
 <img src="/assets/images/div/film/ham.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
-<img src="/assets/images/div/film/hamla.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
-<img src="/assets/images/div/film/hamra.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+<img src="/assets/images/div/film/hamla.png" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+<img src="/assets/images/div/film/hmara.png" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 ## culturé
 
