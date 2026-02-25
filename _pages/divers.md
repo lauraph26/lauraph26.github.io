@@ -28,10 +28,16 @@ j'ai pas osé mettre le frac je t'avoue . . .
 
 ## homemade food
 
-nothing to show, yet
+- **pasta alla carbonara made in laura's palace**
+
+<img src="/assets/images/div/homemade/carbonara.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+- **cookies de raph**
+
+<img src="/assets/images/div/homemade/cookies.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 ## autres 
 
-- **tattoo trop mims à la bib (prochaine fois on en a fait un vrai)**
+- **tattoo trop mims à la bib (prochaine fois on en fait un vrai)**
 
 <img src="/assets/images/div/other/tat.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">

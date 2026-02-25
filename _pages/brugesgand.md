@@ -8,6 +8,7 @@ title: "bruges / gand"
 
 <div class="carousel">
     <div class="carousel-track">
+		<img src="/assets/images/bruges/bruges34" alt="bruges34">
 		<img src="/assets/images/bruges/bruges12" alt="bruges12">
 		<img src="/assets/images/bruges/bruges11" alt="bruges11">
 		<img src="/assets/images/bruges/bruges10" alt="bruges10">
@@ -46,6 +47,20 @@ title: "bruges / gand"
 
 <img src="/assets/images/bruges/bruges27" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
+<!-- <div id="rating-zone"></div>
+
+<input
+  type="range"
+  min="0"
+  max="5"
+  step="0.5"
+  value="0"
+  oninput="updateLabel(this.value)"
+  onchange="setRating('ACTIVITY_UUID', this.value)"
+/> -->
+
+<!-- <span id="rating-value">0</span> / 5 -->
+
 - **gaufre chez albert (j'y pense encore)**
 
 <img src="/assets/images/bruges/bruges13" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
@@ -68,6 +83,7 @@ title: "bruges / gand"
 
 <div class="carousel">
     <div class="carousel-track">
+		<img src="/assets/images/gand/gand48" alt="gand48">
 		<img src="/assets/images/gand/gand41" alt="gand41">
 		<img src="/assets/images/gand/gand37" alt="gand37">
 		<img src="/assets/images/gand/gand34" alt="gand34">
@@ -176,3 +192,6 @@ title: "bruges / gand"
     document.getElementById('lightbox').style.display = 'none';
   });
 </script>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/js/login.js"></script>

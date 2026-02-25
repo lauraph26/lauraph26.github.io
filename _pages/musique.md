@@ -9,9 +9,21 @@ ici, les playlists et les musiques qu'on s'envoie :)
 <br>
 (comme tu fais la meuf mystérieuse à mettre tes playlists privées j'ai dû les recopier sur mon compte sinon on voyait pas ...)
 </p>
+
 ## feb ~ 2026 ~ •°☆ laura ☆°•
 
 coming in a few days
+
+## top 10 metal pour laura :skull_and_crossbones: :metal: :boom:
+
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/playlist/6WRRH2R6GF4iLsY5hYxolm"
+  width="100%"
+  height="380"
+  frameborder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
 
 ## top 10 (or so) beatles (from laura✩彡･ﾟ*)
 
