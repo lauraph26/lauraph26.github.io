@@ -141,7 +141,7 @@ button.onclick = async () => {
 
     let volume=data.reduce((a,b)=>a+b)/data.length
 
-    if(volume>120){
+    if(volume>60){
       triggerParty()
       return
     }
