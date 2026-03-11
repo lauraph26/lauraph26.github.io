@@ -60,7 +60,6 @@ body{
   text-align:center;
 }
 
-/* GIFs cachés au départ */
 #gifs{
   display:none;
 }
@@ -68,8 +67,6 @@ body{
 #gifs img{
   width:200px;
   margin:10px;
-}
-
 }
 
 @keyframes floatSide {
@@ -86,15 +83,6 @@ body{
   transform: translateY(-50%); /* pour centrer verticalement */
 }
 
-/* Position gauche et droite */
-.gif.left {
-  left: -100px;  /* à gauche du gâteau */
-}
-
-.gif.right {
-  right: -100px; /* à droite du gâteau */
-}
-
 </style>
 
 <h1>allez fais pas la timide, fais un voeu et souffle les bougies (oui oui souffle dans le micro là) </h1>
@@ -107,14 +95,15 @@ body{
       <div class="candle"><div class="flame"></div></div>
       <div class="candle"><div class="flame"></div></div>
       <div class="candle"><div class="flame"></div></div>
-  </div>
+    </div>
+  </div> <!-- fermeture de #cake -->
 
   <!-- GIFs qui remplacent le gâteau -->
   <div id="gifs">
     <img src="/assets/gifs/party1.gif">
     <img src="/assets/gifs/party2.gif">
   </div>
-
+  
 </div>
 
 <button id="startMic">faut peut-être activer le micro en cliquant ici . . . </button>
@@ -175,7 +164,11 @@ function triggerParty(){
 
   startConfetti()
 
-  document.getElementById("gifs").style.display="block"
+  // cacher le gâteau
+  document.getElementById("cake").style.display="none";
+
+  // afficher les gifs
+  document.getElementById("gifs").style.display="block";
 }
 
 function startConfetti() {
