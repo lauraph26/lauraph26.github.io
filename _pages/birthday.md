@@ -53,21 +53,23 @@ body{
   to{transform:scale(1.25)}
 }
 
-.cake-container {
-  position: relative;
-  width: 300px;  /* largeur du conteneur */
-  margin: 0 auto;
+.cake-area{
+  position:relative;
+  width:300px;
+  margin:60px auto;
+  text-align:center;
 }
 
-.gifs {
-  position: absolute;
-  top: 50%;   /* centré verticalement par rapport au gâteau */
-  left: 0;
-  width: 100%;
-  height: 0;
-  pointer-events: none;  /* pour que le clic passe au gâteau */
-  display: none;
-  
+/* GIFs cachés au départ */
+#gifs{
+  display:none;
+}
+
+#gifs img{
+  width:200px;
+  margin:10px;
+}
+
 }
 
 @keyframes floatSide {
@@ -97,17 +99,22 @@ body{
 
 <h1>allez fais pas la timide, fais un voeu et souffle les bougies (oui oui souffle dans le micro là) </h1>
 
-<div class="cake-container">
-  <div class="cake">
-    <div class="candle"><div class="flame"></div></div>
-    <div class="candle"><div class="flame"></div></div>
-    <div class="candle"><div class="flame"></div></div>
+<div class="cake-area">
+
+  <!-- Gâteau -->
+  <div id="cake">
+    <div class="cake">
+      <div class="candle"><div class="flame"></div></div>
+      <div class="candle"><div class="flame"></div></div>
+      <div class="candle"><div class="flame"></div></div>
   </div>
 
-  <div class="gifs">
-    <img src="/assets/gifs/party1.gif" class="gif left">
-    <img src="/assets/gifs/party2.gif" class="gif right">
+  <!-- GIFs qui remplacent le gâteau -->
+  <div id="gifs">
+    <img src="/assets/gifs/party1.gif">
+    <img src="/assets/gifs/party2.gif">
   </div>
+
 </div>
 
 <button id="startMic">faut peut-être activer le micro en cliquant ici . . . </button>
@@ -141,7 +148,7 @@ button.onclick = async () => {
 
     let volume=data.reduce((a,b)=>a+b)/data.length
 
-    if(volume>60){
+    if(volume>30){
       triggerParty()
       return
     }
