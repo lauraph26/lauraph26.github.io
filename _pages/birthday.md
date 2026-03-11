@@ -53,52 +53,65 @@ body{
   to{transform:scale(1.25)}
 }
 
-#fireworks{
-  position:fixed;
-  top:0;
-  left:0;
-  width:100vw;
-  height:100vh;
-  pointer-events:none;
-  z-index:9999;
-  overflow: visible;
-}
-#fireworks canvas{
-  position: absolute !important;
-  width: 100% !important;
-  height: 100% !important;
+.cake-container {
+  position: relative;
+  width: 300px;  /* largeur du conteneur */
+  margin: 0 auto;
 }
 
-#gifs{
-  margin-top:30px;
-  display:none;
+.gifs {
+  position: absolute;
+  top: 50%;   /* centré verticalement par rapport au gâteau */
+  left: 0;
+  width: 100%;
+  height: 0;
+  pointer-events: none;  /* pour que le clic passe au gâteau */
+  display: none;
+  
 }
 
-#gifs img{
-  width:200px;
-  margin:10px;
+@keyframes floatSide {
+  0% { transform: translateY(-50%) translateX(0); }
+  50% { transform: translateY(-50%) translateX(10px); }
+  100% { transform: translateY(-50%) translateX(0); }
+}
+
+.gif {
+  position: absolute;
+  width: 80px;  /* taille du gif */
+  height: 80px;
+  animation: floatSide 2s ease-in-out infinite;
+  transform: translateY(-50%); /* pour centrer verticalement */
+}
+
+/* Position gauche et droite */
+.gif.left {
+  left: -100px;  /* à gauche du gâteau */
+}
+
+.gif.right {
+  right: -100px; /* à droite du gâteau */
 }
 
 </style>
 
-<h1>alleeez fais pas la timide, fais un voeu et souffle les bougies (oui oui souffle dans le micro là) </h1>
+<h1>allez fais pas la timide, fais un voeu et souffle les bougies (oui oui souffle dans le micro là) </h1>
 
-<div class="cake">
-  <div class="candle"><div class="flame"></div></div>
-  <div class="candle"><div class="flame"></div></div>
-  <div class="candle"><div class="flame"></div></div>
+<div class="cake-container">
+  <div class="cake">
+    <div class="candle"><div class="flame"></div></div>
+    <div class="candle"><div class="flame"></div></div>
+    <div class="candle"><div class="flame"></div></div>
+  </div>
+
+  <div class="gifs">
+    <img src="/assets/gifs/party1.gif" class="gif left">
+    <img src="/assets/gifs/party2.gif" class="gif right">
+  </div>
 </div>
 
 <button id="startMic">faut peut-être activer le micro en cliquant ici . . . </button>
 <p id="status"></p>
-
-<div id="fireworks"></div>
-
-<div id="gifs">
-  <img src="/assets/gifs/party1.gif">
-  <img src="/assets/gifs/party2.gif">
-  <img src="/assets/gifs/party3.gif">
-</div>
 
 <audio id="music" src="/assets/music/happy-birthday.mp3"></audio>
 
@@ -128,7 +141,7 @@ button.onclick = async () => {
 
     let volume=data.reduce((a,b)=>a+b)/data.length
 
-    if(volume>60){
+    if(volume>200){
       triggerParty()
       return
     }
@@ -145,15 +158,15 @@ function triggerParty(){
     f.style.display="none"
   })
 
+   document.querySelectorAll(".gifs").forEach(g => {
+    g.style.display = "block";
+  });
+
   status.innerText="joyeux anniversaire !!!!!!"
 
   music.play()
 
   startConfetti()
-
-  startFireworks();
-  setTimeout(startFireworks, 2000);
-  setTimeout(startFireworks, 4000);
 
   document.getElementById("gifs").style.display="block"
 }
@@ -181,25 +194,3 @@ function startConfetti() {
 
   shoot();
 }
-
-function startFireworks(){
-
-  const container = document.getElementById("fireworks");
-
-  const fireworks = new Fireworks.default(container, {
-    rocketsPoint: 20,
-    hue: { min: 0, max: 360 },
-    delay: { min: 2, max: 8 },
-    speed: 4,
-    acceleration: 1.08,
-    friction: 0.95,
-    gravity: 1.3,
-    particles: 200,
-    trace: 8,
-    explosion: 8
-  });
-    console.log("fireworks launching")
-  fireworks.start();
-}
-
-</script>
