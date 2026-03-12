@@ -85,7 +85,7 @@ body{
 
 </style>
 
-<h1>allez fais pas la timide, fais un voeu et souffle les bougies (oui oui souffle dans le micro là) </h1>
+<h1>allez fais pas la timide, fais un voeu et souffle les bougies (oui oui souffle dans le micro là ou juste fais du bruit) </h1>
 
 <div class="cake-area">
 
@@ -137,7 +137,7 @@ button.onclick = async () => {
 
     let volume=data.reduce((a,b)=>a+b)/data.length
 
-    if(volume>30){
+    if(volume>60){
       triggerParty()
       return
     }
