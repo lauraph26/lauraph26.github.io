@@ -31,7 +31,7 @@ async function initTodo() {
     </div>
 
     <div style="flex:1; background:#f0f0f0; padding:15px; border-radius:10px;">
-      <h3>finies</h3>
+      <h3>fait</h3>
       <ul id="completed-list"></ul>
     </div>
 
@@ -80,7 +80,7 @@ async function loadTasks() {
 
       <br>
       <small style="color: gray;">
-        créé par : ${creatorName(task.creator?.email) || "?"}
+        par : ${creatorName(task.creator?.email) || "?"}
       </small>
 
       <br>

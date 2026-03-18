@@ -10,11 +10,29 @@ ici, les playlists et les musiques qu'on s'envoie :)
 (comme tu fais la meuf mystérieuse à mettre tes playlists privées j'ai dû les recopier sur mon compte sinon on voyait pas ...)
 </p>
 
-## feb ~ 2026 ~ •°☆ laura ☆°•
+## à écouter à vélo (from laura✩彡･ﾟ*)
 
-coming in a few days
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/track/5wD6de7Fz1QfxVNkv1SEy7"
+  width="100%"
+  height="380"
+  frameborder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
 
-## top 10 metal pour laura :skull_and_crossbones: :metal: :boom:
+## feb ~ 2026 ~ •°☆ laura ☆°• (from raph)
+
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/playlist/4oOZigxRRgWQ7LFOaC4mlm"
+  width="100%"
+  height="380"
+  frameborder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
+
+## top 10 metal pour laura :skull_and_crossbones: :metal: :boom: (from raph)
 
 <iframe
   style="border-radius:12px"

@@ -25,7 +25,7 @@ async function renderAuth() {
   } else {
     zone.innerHTML = `
       <div style="margin-top: 40px; text-align: center;">
-        t'es déjà connecté.e en fait !!!
+        connecté.e !!!
         <br><br>
         <button onclick="logout()">logout</button>
       </div>
