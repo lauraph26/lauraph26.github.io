@@ -6,8 +6,6 @@ title: "musique"
 
 <p style="text-align: center; text-align: justify; padding-top: 50px;">
 ici, les playlists et les musiques qu'on s'envoie :) 
-<br>
-(comme tu fais la meuf mystérieuse à mettre tes playlists privées j'ai dû les recopier sur mon compte sinon on voyait pas ...)
 </p>
 
 ## à écouter à vélo (from laura✩彡･ﾟ*)
