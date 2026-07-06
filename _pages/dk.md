@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /dk
+permalink: /dk/
 hidden: true  
 ---
 
